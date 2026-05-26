@@ -51,13 +51,23 @@ The acid test for any phrase: would a specific human say this out loud to someon
 
 When your source material includes spreadsheets, the skill checks data orientation before charting. Most spreadsheets are built for humans reading across rows. Charts need data in columns. The skill transposes during outline construction so the chart doesn't render with swapped axes — a silent failure mode that nobody catches until the presenter is live.
 
+## Compatibility
+
+This skill works in both **Claude Chat** (claude.ai) and **Claude Code** (the CLI and desktop app). Same file, same behavior, both environments.
+
 ## Install
 
-Download `powerpoint-keynote-presentation.skill` from this repo and install it in Claude:
+Download `powerpoint-keynote-presentation.skill` from this repo. The `.skill` file is a ZIP archive — no renaming or unpacking needed.
 
-1. Open **Claude.ai** → **Settings** → **Skills**
+**Claude Chat (claude.ai)**
+1. Open **claude.ai** → **Customize** → **Skills**
 2. Click **Add Skill** and upload the `.skill` file
-3. It triggers on phrases like "build a deck," "turn this into a presentation," "structure my talk," "keynote," "powerpoint," or "slides"
+
+**Claude Code (CLI / desktop app)**
+1. Copy the file to `~/.claude/skills/` (available in all projects) or `.claude/skills/` inside a specific project
+2. Load it in a conversation with `@path/to/powerpoint-keynote-presentation.skill`
+
+Once installed, it triggers on phrases like "build a deck," "turn this into a presentation," "structure my talk," "keynote," "powerpoint," or "slides."
 
 ## Usage
 
