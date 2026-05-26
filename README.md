@@ -2,7 +2,7 @@
 
 A Claude skill that turns raw material into persuasive presentation outlines. Brain dumps, documents, spreadsheets, transcripts, scattered notes — in. Slide-by-slide narrative architecture — out.
 
-**This is a story skill, not a design skill.** It builds the argument your deck needs to make. It doesn't make your deck pretty. If you need visual design, layout polish, or brand templates, use Claude's built-in pptx skill instead. This skill cares about one thing: does your presentation persuade?
+**This is a story skill first, not a design skill.** It builds the argument your deck needs to make. It can also generate a basic .pptx file in a clean layout to give you a design starting point — but it won't make your deck pretty. For visual design, layout polish, or brand templates, use Claude's built-in pptx skill. This skill cares most about one thing: does your presentation persuade?
 
 ## What It Does
 
