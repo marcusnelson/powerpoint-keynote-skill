@@ -1,5 +1,7 @@
 # Presentation Narrative Skill for Claude
 
+**[Buy this skill →][YOUR PURCHASE LINK HERE]**
+
 A Claude skill that turns raw material into persuasive presentation outlines. Brain dumps, documents, spreadsheets, transcripts, scattered notes — in. Slide-by-slide narrative architecture — out.
 
 **This is a story skill first, not a design skill.** It builds the argument your deck needs to make. It can also generate a basic .pptx file in a clean layout to give you a design starting point — but it won't make your deck pretty. For visual design, layout polish, or brand templates, use Claude's built-in pptx skill. This skill cares most about one thing: does your presentation persuade?
@@ -55,9 +57,11 @@ When your source material includes spreadsheets, the skill checks data orientati
 
 This skill works in both **Claude Chat** (claude.ai) and **Claude Code** (the CLI and desktop app). Same file, same behavior, both environments.
 
-## Install
+## Get It
 
-Download `powerpoint-keynote-presentation.skill` from this repo. The `.skill` file is a ZIP archive — no renaming or unpacking needed.
+**[Purchase the skill →][YOUR PURCHASE LINK HERE]**
+
+After purchase you'll receive `powerpoint-keynote-presentation.skill` — a ZIP archive, no renaming or unpacking needed.
 
 **Claude Chat (claude.ai)**
 1. Open **claude.ai** → **Customize** → **Skills**
